@@ -1,0 +1,25 @@
+body{
+	background: url(https://i.pinimg.com/236x/ba/77/03/ba7703c32cd1e947ef3a78087dcb3e08--the-s-color-palettes.jpg);
+}
+header{
+	background: white;
+	border: 2px solid black;
+	text-align: center;
+}
+aside{
+	width: 250px;
+	height:500px;
+	border: 2px solid black;
+	background: white;
+}
+section{
+	width: 250px;
+	height: 500px;
+	border: 2px solid black;
+	background: white;
+}
+#imageContainer{
+	padding:50px auto;
+	width: 400px;
+	height: 400px;
+}
